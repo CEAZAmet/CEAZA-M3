@@ -14,7 +14,7 @@ The CEAZA M3 have below specs:
 This board is pin compatible and should be connected to the CEAZA MEGA system to proper work.
 
 ## Documentation
-A comprehensive documentation for well undertand, use or modify the CEAZA M1 board is available in our Wiki. In adition, we share with you the schematics diagrams, adns Arduino example codes.
+A comprehensive documentation for well undertand, use or modify the CEAZA M3 board is available in our Wiki. In adition, we share with you the schematics diagrams, adns Arduino example codes.
 
 ## Quickstart guide
 Install the M3 board in the CEAZA MEGA's bottom, make certain connection throuhg the boards by three 2 x 10 pin header terminals is rigth. Plug the battery and solar panel cables in the respective board terminal. be careful to avoid swap both plugs, due they are the same type of terminals. Connect the CEAZA MEGA main board system to the host PC by mini-USB connector, open the Arduino ide software, select the Arduino Mega board and the correspondign COM port.

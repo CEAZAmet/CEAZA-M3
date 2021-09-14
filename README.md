@@ -1,5 +1,6 @@
 # Welcome to CEAZA-M3!
 Solar charger for 12V SLA battery in CEAZA MEGA system.
+![alt text](/Images/M3_Front.jpg?raw=true "CEAZA M3 Board")
 
 # What is the CEAZA-M3?
 Is a solar PWM charger for 12V SLA battery board compatible with CEAZA MEGA system, which allow recharge the system battery every day and avoid system failure due lack of energy storage.
